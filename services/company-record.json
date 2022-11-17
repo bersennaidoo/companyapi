@@ -1,16 +1,18 @@
 {
-  "error": [
+  "company": [
     {
-      "type": "https://datatracker.ietf.org/doc/html/rfc7807#section-3",
-      "title": "SimpleStorage: [company]",
-      "detail": "Not Found [2258ie4t68jv]",
-      "status": "400",
-      "instance": "http://company-atk.herokuapp.com/2258ie4t68jv",
-      "mamund": {
-        "dt": "2022-11-16T09:59:19.628Z",
-        "app": "bigco-company",
-        "server": "EYC-01"
-      }
+      "id": "21r1aeuj87e",
+      "companyName": "twtr",
+      "streetAddress": "",
+      "city": "",
+      "stateProvince": "",
+      "postalCode": "",
+      "country": "",
+      "telephone": "",
+      "email": "twtr@example.com",
+      "status": "pending",
+      "dateCreated": "2019-02-24T09:51:26.839Z",
+      "dateUpdated": "2019-02-24T09:51:26.839Z"
     }
   ]
 }
